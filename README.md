@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anson-poon
 - 👀 I’m interested in architecture, parametric design, sustainability, automotive, welding
-- 🌱 I’m currently learning Web Development and Software Engineering at OSU
+- 🌱 I’m currently learning Analysis of Algorithms and Software Engineering at OSU
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on... [Linkedin](http://www.linkedin.com/in/anson-poon)
 
