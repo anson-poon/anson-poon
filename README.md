@@ -2,10 +2,9 @@
 anson-poon/anson-poon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 👾 Introduction
+## 🐰 Introduction
 
-Hello!👋 I'm Anson, a Computer Science student at Oregon State University. I am transitioning from a design background to software engineering starting a year ago.
-🌱 I’m currently taking the Analysis of Algorithms and Software Engineering courses at OSU.
+Hello!👋 I'm Anson, a Computer Science student at Oregon State University. I am transitioning from a design background to software engineering starting a year ago. I’m currently taking the Analysis of Algorithms and Software Engineering courses at OSU.
 
 In my spare time, I like to work on cars, drink coffee, or go for a hike. I am also interested in architecture, interior design, and welding. 
 
@@ -27,4 +26,4 @@ In my spare time, I like to work on cars, drink coffee, or go for a hike. I am a
 
 
 ## 📫 Also Reach me via... 
-- [Linkedin](http://www.linkedin.com/in/anson-poon)
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/anson-poon)
