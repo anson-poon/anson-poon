@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 🐰 Introduction
 
-Hello!👋 I'm Anson, a Computer Science student at Oregon State University. I am transitioning from a design background to software engineering starting a year ago. I’m currently taking the Analysis of Algorithms and Software Engineering courses at OSU.
+Hello!👋 I'm Anson, a Computer Science student at Oregon State University. I am transitioning from a design background to software engineering starting a year ago.
 
 In my spare time, I like to work on cars, get coffee, or go for a hike. I am also interested in architecture, interior design, and welding. 
 
