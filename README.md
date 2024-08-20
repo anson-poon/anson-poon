@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 🐰 Introduction
 
-Hello!👋 I'm Anson, a Computer Science student at Oregon State University. I am transitioning from a design background to software engineering starting a year ago.
+Hello!👋 I'm Anson, a Software Engineer Intern and a Computer Science student. I transitioned from a design background to software development a while ago because I found my passion in solving real-world engineering challenges through coding and automation, which inspired me to build software that yields meaningful and lasting impact. 
 
-In my spare time, I like to work on cars, get coffee, or go for a hike. I am also interested in architecture, interior design, and welding. 
+In my spare time, I am interested in anything cars and film related. I am also passionate about architecture, interior design, and welding. 
 
 ## 📚 Education
 
