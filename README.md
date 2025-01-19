@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 🐰 Introduction
 
-Hello!👋 I'm Anson, a Software Engineer Intern and a Computer Science student. I transitioned from a design background to software development a while ago because I found my passion in solving real-world engineering challenges through coding and automation, which inspired me to build software that yields meaningful and lasting impact. 
+Hello!👋 I'm Anson, a Software Developer and a Computer Science student. I transitioned from a design background to software development a while ago because I found my passion in solving real-world engineering challenges through coding and automation, which inspired me to build software that yields meaningful and lasting impact. 
 
 In my spare time, I am interested in anything cars and film related. I am also passionate about architecture, interior design, and welding. 
 
