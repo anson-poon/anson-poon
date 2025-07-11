@@ -8,7 +8,7 @@ Hello!👋 I'm Anson, a Software Developer. I transitioned from a design backgro
 
 In my spare time, I like to work on cars and watch films. I am also passionate about architecture, interior design, and coffee. 
 
-[Personal Portfolio](https://anson-poon.github.io/portfolio-website)
+[Personal Portfolio](https://anson-poon.github.io/portfolio)
 
 Some of my older works when I was still studying design [Architecture & Interior Design Portfolio](https://ansonpoon77.wixsite.com/portfolio)
 
