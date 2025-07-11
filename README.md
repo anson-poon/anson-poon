@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 Hello!👋 I'm Anson, a Software Developer. I transitioned from a design background to software development a while ago because I found my passion in solving real-world engineering challenges through coding and automation, which inspired me to build software that yields meaningful and lasting impact. 
 
-In my spare time, I am interested in anything cars and film-related. I am also passionate about architecture, interior design, and welding. 
+In my spare time, I like to work on cars and watch films. I am also passionate about architecture, interior design, and coffee. 
 
 [Personal Portfolio](https://anson-poon.github.io/portfolio-website)
 
