@@ -4,13 +4,13 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 🐰 Introduction
 
-Hello!👋 I'm Anson, a Software Developer. I transitioned from a design background to software development a while ago because I found my passion in solving real-world engineering challenges through coding and automation, which inspired me to build software that yields meaningful and lasting impact. 
+Hello!👋 I'm Anson, a Software Developer. I transitioned from an architecture/interior design background to software engineering a while ago when I found my passion in solving real-world engineering challenges, particularly in the architecture industry, through technology and automation. That inspired me to build software that makes a real impact. 
 
-In my spare time, I like to work on cars and watch films. I am also passionate about architecture, interior design, and coffee. 
+In my spare time, I like to work on cars and watch films. I am also passionate about coffee. 
 
 [My Passion Project - Aribuilds](https://aribuilds.com)
 
-Some of my older works when I was still studying design [Architecture & Interior Design Portfolio](https://ansonpoon77.wixsite.com/portfolio)
+Some of my older works when I was still an architecture student [Architecture & Interior Design Portfolio](https://ansonpoon77.wixsite.com/portfolio)
 
 ## 📚 Education
 
